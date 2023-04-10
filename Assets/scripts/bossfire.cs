@@ -9,13 +9,14 @@ public class bossfire : MonoBehaviour
     [SerializeField] GameObject finalfire;
     public bool keepfire=false;
     scenemanager myscenemanager;
+    public List<GameObject> fireparticles;
     // Start is called before the first frame update
     void Start()
     {
 
-      
 
-
+        fireparticles = new List<GameObject>();
+        fireparticles.Clear();
     }
 
     // Update is called once per frame
@@ -25,7 +26,12 @@ public class bossfire : MonoBehaviour
         myscenemanager = FindObjectOfType<scenemanager>();
         if (bosshelath==0)
         {
-            GameObject firstfiregameobject = Instantiate(finalfire, transform.position, Quaternion.identity);
+            if (fireparticles.Count == 0)
+            {
+
+                GameObject firstfiregameobject = Instantiate(finalfire, transform.position, Quaternion.identity);
+                fireparticles.Add(firstfiregameobject);
+            }
             myscenemanager.successscreen();
             FindObjectOfType<scenemanager>().isstart = false;
             FindObjectOfType<coinsinstantiate>().isgameover = true;
