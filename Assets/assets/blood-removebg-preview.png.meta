@@ -1,0 +1,1665 @@
+fileFormatVersion: 2
+guid: ea60d8f48badc4af4a27906034629878
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blood-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 192
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88184cd2244c54a8ca0b11bf99031fee
+      internalID: -1564851409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 168
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339d03ec724be4d7c8543405a98ec6b4
+      internalID: -520535722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 144
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7537418d02dab46e6b2c77d33658e7c5
+      internalID: 814761670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 144
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3279724a04dd419f8f88837583c1105
+      internalID: 424878435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 160
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82a454e96c7b4cb28208da1dad3b124
+      internalID: 2006745335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 154
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65b6597a6f0e4489880915ebbc0d91b
+      internalID: -261838960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 166
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1820d50f6927a43fca410166a570bbf2
+      internalID: -398279795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 156
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07d78d626c39408fbe00f46297d2cf6
+      internalID: 1470403234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 168
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3fc76bea8ec46b49a11bdfa75f2035
+      internalID: -329325661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fb3596b535b45c3be2499be1ddc214
+      internalID: -2106461177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 96
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8903d52029f417c905314c3bb8374a
+      internalID: -384906571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 132
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e80b00b1f54341e1b67c9a6124f17a0
+      internalID: 344420581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 132
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50979a99c79f143ee957bf86d03885d9
+      internalID: -507151530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 156
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87146553305cf4d6ca4477251b0d2200
+      internalID: -1627087386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 78
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273eb6f0747da40a0a07ad0f9b76812b
+      internalID: 2118985804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 139
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e901f065cd48058c4599cdd9dc9b5
+      internalID: 645415583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1f44c5aed1e43dc944dcb1366e1f8a
+      internalID: 507095018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 145
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6842089e0844eddb8b7fa307382370
+      internalID: -2030950651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 144
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30811e9fab77d4fd1a24a91bc5d32113
+      internalID: 1485033508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 126
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2170e4108aa2459fbb24bcc26bc158a
+      internalID: 1130731811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 148
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cd5c79f80994e29b8138557d9712fa
+      internalID: -397706392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399eba2cc0b654fcabbf86102b3bf0c1
+      internalID: -380839181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 124
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410474300a64642149596852512b4ddc
+      internalID: 234829269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 126
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8745c296acd149f3aac83654f2890d6
+      internalID: 2010642414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 132
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf38e2ff9b3d446ebb9ca3629a0e2a76
+      internalID: -1822153512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 135
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605e8ae4ac725482f9691695832c2b38
+      internalID: 1385827223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 132
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb95fcd69b9b94e1abbb6c1d195631c0
+      internalID: -76910647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 138
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c74818ef3647cfba8b0c8975a1708
+      internalID: -1352084316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 96
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431f7d86e8ce444029bda3d3c656324a
+      internalID: -1047370596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c422386ab4caa41ffbb1768c341af470
+      internalID: 1945552583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 114
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bb808b2f3694acbbe9576debfbe89c
+      internalID: -1709608701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 114
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cb26d80116a47a7aaa22ae5736165d
+      internalID: -37313637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 120
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d9b1f4527b0443b9153a85ef2ec0fc
+      internalID: 1291156340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 120
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f1ab970cc814eb29aaea2b3cd4d49c
+      internalID: -230741268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 114
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85df3552f8e454c1fa4c2dbb6004652b
+      internalID: 1407036498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 120
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb5730f4fa2349058732d8f303cece3
+      internalID: 1694351632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 114
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b3d96572aa04c82a919ce77a1fa072
+      internalID: 1893740224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 121
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c970ef60cc54fd394bf13b44bec218
+      internalID: -27645311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 118
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f464070aa5e4eea8c8bfda7b226bdc
+      internalID: -1826896561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 108
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e6ced411844473e83f68e5c9e17c24
+      internalID: 1913469208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1e68bbdc8954eea90030758fe7afbb
+      internalID: 542039874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 111
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf8cfa0b902f4f91ba0950527520e3c
+      internalID: -1711311411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964e40654502463f8cb251d81cead72
+      internalID: 1519778124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 114
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13b9a26d4e94469fbccead0502c7a5c
+      internalID: -1312809382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 108
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc513835e6f15473fb9a1e5a6649ef31
+      internalID: 1937107186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 108
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc9b24d7bf0a4ee3bd4d56c3b561502
+      internalID: 1915359502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 90
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe413737098c14b3fb4d0fe2b1b2830a
+      internalID: -285205869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 93
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dfc862f9589492195305e4f7980a1c
+      internalID: -1398993225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 108
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5075e13920d48ec8d4f2f5491b7e34
+      internalID: 1560561504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 101
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955b31736e68546f284a4eff5bd6339d
+      internalID: -880940300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 82
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c09f6528a584f65ae910e6a2c8900a
+      internalID: -2078936867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 82
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688204127ad754c23a7369d87015ea3d
+      internalID: 1874746617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 72
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0695446e3bbaa424fa7da1ba8b19294b
+      internalID: 1024216960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 87
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e282c9d5b14a544beab58fd058412b90
+      internalID: 721639710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 78
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ca564491ac44f9ad800bb670a2d3d
+      internalID: 1422828680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 86
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b76029529f24cd4be2896b9db8c3cd
+      internalID: 2123809633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 84
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabcbe2fa836d4746b05bd3e27ad5848
+      internalID: 711129199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 54
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03b34ef4423f464ea93589eba09faf1
+      internalID: 1606756570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 72
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bd1ce80fcea4f2181f11f5671f58ef
+      internalID: 1664709578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e46dd9c3b14545a997a26f0c7a39593
+      internalID: -1517101166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 71
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79881d8f5c3245a59b46e77464f80a3
+      internalID: -560911493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 60
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a662a49399d4beca3ec1aaa3120e42
+      internalID: 6006799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e3132de4e864ffea874c4dc8184ba6
+      internalID: 118728911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 48
+        width: 108
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5578f19c8d8417ca7fc28c3765e28a
+      internalID: -682997190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 43
+        width: 131
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c72db476264dd487d4af8959a916b
+      internalID: 115039286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 60
+        width: 171
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18659f15dc85342b1b3ce3f5d823c435
+      internalID: 2043460016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 47
+        width: 164
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578e6120e73f74acc851889eed42108e
+      internalID: -1472750115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 46
+        width: 137
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bde2b8a6ecc14c3898579b4b2d8fb18
+      internalID: 199968831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 40
+        width: 197
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bc0acbe6a664b819b4aa12a015e959
+      internalID: 1493061570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      blood-removebg-preview_0: -1564851409
+      blood-removebg-preview_1: -520535722
+      blood-removebg-preview_10: -384906571
+      blood-removebg-preview_11: 344420581
+      blood-removebg-preview_12: -507151530
+      blood-removebg-preview_13: -1627087386
+      blood-removebg-preview_14: 2118985804
+      blood-removebg-preview_15: 645415583
+      blood-removebg-preview_16: 507095018
+      blood-removebg-preview_17: -2030950651
+      blood-removebg-preview_18: 1485033508
+      blood-removebg-preview_19: 1130731811
+      blood-removebg-preview_2: 814761670
+      blood-removebg-preview_20: -397706392
+      blood-removebg-preview_21: -380839181
+      blood-removebg-preview_22: 234829269
+      blood-removebg-preview_23: 2010642414
+      blood-removebg-preview_24: -1822153512
+      blood-removebg-preview_25: 1385827223
+      blood-removebg-preview_26: -76910647
+      blood-removebg-preview_27: -1352084316
+      blood-removebg-preview_28: -1047370596
+      blood-removebg-preview_29: 1945552583
+      blood-removebg-preview_3: 424878435
+      blood-removebg-preview_30: -1709608701
+      blood-removebg-preview_31: -37313637
+      blood-removebg-preview_32: 1291156340
+      blood-removebg-preview_33: -230741268
+      blood-removebg-preview_34: 1407036498
+      blood-removebg-preview_35: 1694351632
+      blood-removebg-preview_36: 1893740224
+      blood-removebg-preview_37: -27645311
+      blood-removebg-preview_38: -1826896561
+      blood-removebg-preview_39: 1913469208
+      blood-removebg-preview_4: 2006745335
+      blood-removebg-preview_40: 542039874
+      blood-removebg-preview_41: -1711311411
+      blood-removebg-preview_42: 1519778124
+      blood-removebg-preview_43: -1312809382
+      blood-removebg-preview_44: 1937107186
+      blood-removebg-preview_45: 1915359502
+      blood-removebg-preview_46: -285205869
+      blood-removebg-preview_47: -1398993225
+      blood-removebg-preview_48: 1560561504
+      blood-removebg-preview_49: -880940300
+      blood-removebg-preview_5: -261838960
+      blood-removebg-preview_50: -2078936867
+      blood-removebg-preview_51: 1874746617
+      blood-removebg-preview_52: 1024216960
+      blood-removebg-preview_53: 721639710
+      blood-removebg-preview_54: 1422828680
+      blood-removebg-preview_55: 2123809633
+      blood-removebg-preview_56: 711129199
+      blood-removebg-preview_57: 1606756570
+      blood-removebg-preview_58: 1664709578
+      blood-removebg-preview_59: -1517101166
+      blood-removebg-preview_6: -398279795
+      blood-removebg-preview_60: -560911493
+      blood-removebg-preview_61: 6006799
+      blood-removebg-preview_62: 118728911
+      blood-removebg-preview_63: -682997190
+      blood-removebg-preview_64: 115039286
+      blood-removebg-preview_65: 2043460016
+      blood-removebg-preview_66: -1472750115
+      blood-removebg-preview_67: 199968831
+      blood-removebg-preview_68: 1493061570
+      blood-removebg-preview_7: 1470403234
+      blood-removebg-preview_8: -329325661
+      blood-removebg-preview_9: -2106461177
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
